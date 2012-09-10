@@ -1,6 +1,6 @@
 
 public class ClassTwo {
 	
-	int number ;
+	int numberTwoChanged ;
 
 }

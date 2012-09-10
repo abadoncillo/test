@@ -2,6 +2,6 @@
 public class ClassOne {
 	
 	int numberChangedAgain;
-	int number2;
+	int number2Changed;
 
 }
