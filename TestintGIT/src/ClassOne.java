@@ -1,7 +1,7 @@
 
 public class ClassOne {
 	
-	int numberChangedAgain;
-	int number2Changed;
+	int number1PREPRODUCCION;
+	int number2PREPRODUCCION;
 
 }
