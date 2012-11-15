@@ -1,6 +1,6 @@
 
 public class ClassTwo {
 	
-	int numberTwoChangedndfasfsafsdfsd ;
+	int number1DesarrolloClassTwo ;
 
 }

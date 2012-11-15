@@ -1,7 +1,7 @@
 
 public class ClassOne {
 	
-	int numberChangedAgain;
-	int number2Changed;
+	int number1Desarrollo;
+	int number2Desarrollo;
 
 }
